@@ -16,3 +16,5 @@
   - Vue Demos 👉 [vue-learning](https://github.com/EvenyYlzz/vue-learning)
 
 <img width="350px" height="165px" alt="Most Used Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvenyYlzz&layout=compact"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=EvenyYlzz)](https://github.com/EvenyYlzz)
