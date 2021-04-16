@@ -1,7 +1,7 @@
 ## Hi, I am Even!👋🏻
 ### A FE scholar from China🇨🇳.
 
-- 🔭 I’m currently **looking for a job**.
+- 🔭 I’m currently **working in SHEIN**.
 - 📚 Learning **TypeScript** & **Node.js** now.
 - 💬 How to reach me:
   - WeChat: **EvenyYlzz**
