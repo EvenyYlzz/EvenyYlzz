@@ -1,5 +1,5 @@
 ## Hi, I am Even!👋🏻
-### A FE scholar from China🇨🇳.
+### A FE scholar.
 
 - 🔭 I’m currently **working in SHEIN**.
 - 📚 Learning **TypeScript** & **Node.js** now.
