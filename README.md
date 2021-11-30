@@ -2,7 +2,6 @@
 ### A FE scholar.
 
 - 🔭 I’m currently **working in SHEIN**.
-- 📚 Learning **TypeScript** & **Node.js** now.
 - 💬 How to reach me:
   - WeChat: **EvenyYlzz**
   - QQ:  **172463074**
